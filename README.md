@@ -60,30 +60,6 @@ Plotly Dash – Interactive dashboard development
 
 Jupyter Notebook – Analysis and experimentation
 
-- Dashboard Features
-
-KPI Cards:
-
-Total Applications
-
-Default Rate
-
-Average Credit Amount
-
-Average Income
-
-Interactive Visualizations:
-
-Default rate by income type and education level
-
-Applicant distribution by contract type
-
-Default behavior across demographic segments
-
-Comparative plots for risk analysis
-
-User-friendly layout designed for quick insights and exploration
-
 - Key Learnings
 
 Translating raw data into actionable business insights
@@ -99,3 +75,4 @@ Communicating insights visually and effectively
 Kavya Dwivedi
 B.S. in Data Science and Applications
 Indian Institute of Technology, Madras
+
